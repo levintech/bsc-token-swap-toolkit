@@ -46,7 +46,7 @@ const StyledMenuItem = styled.a<StyledMenuItemProps>`
   ${({ $variant }) =>
     $variant === "default"
       ? `
-    padding: 0 16px;
+    padding: 0 24px;
     height: 48px;
   `
       : `
