@@ -9,7 +9,7 @@ import { UserMenuItem } from "./styles";
 
 export const StyledUserMenu = styled(Flex)`
   background-clip: padding-box,border-box;
-  background-image: ${({ theme }) => theme.colors.gradients.cardBackground};
+  // background-image: ${({ theme }) => theme.colors.gradients.cardBackground};
   background-origin: padding-box,border-box;
   border: 2px solid transparent !important;  
 

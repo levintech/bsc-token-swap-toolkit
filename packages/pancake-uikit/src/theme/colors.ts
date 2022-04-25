@@ -75,7 +75,7 @@ export const darkColors: Colors = {
   gradients: {
     nav: "linear-gradient(180deg, #202330, transparent)",
     background: "linear-gradient(180deg, #0befd8, #5959df)",
-    cardBackground: "linear-gradient(270deg,#2a2f3f,#2a2f3f),linear-gradient(210deg,#f213ff,#2a2f3f,#0befd8)",
+    cardBackground: "linear-gradient(270deg,#2a2f3f,#2a2f3f),linear-gradient(210deg,#3b90ac,#3b90ac,#0befd8)",
     bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     inverseBubblegum: "linear-gradient(139.73deg, #3D2A54 0%, #313D5C 100%)",
     cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",

@@ -59,8 +59,6 @@ export const StyledCard = styled.div<StyledCardProps>`
       background-size: 400% 400%;
     `}
 
-  padding: 1px 1px 3px 1px;
-
   ${space}
 `;
 
